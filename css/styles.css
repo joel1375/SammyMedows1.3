@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background-color: #6a3eaa;
+}
+
+img {
+
+}
+
+.one {
+  background: #6a3eaa;
+}
+.two {
+  text-align: center;
+}
+
+.instaback {
+  background-color: white;
+}
+.textcenter {
+  text-align: center;
+}
+
+.profilepicture {
+  width: 100%;
+}
+
+.fullwidth {
+  width: 100%;
+}
+
+.halfwidth {
+  width: 100%;
+}
+
+.col-6 {
+  padding: 0 0 0 0;
+}
